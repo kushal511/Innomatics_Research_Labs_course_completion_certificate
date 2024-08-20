@@ -1,4 +1,4 @@
-# Innomatics_Research_Labs_Data_Science_course_completion_certificate
+# Innomatics_Research_Labs_Data_Science_certificate
 
 Data Science Course Completion - Innomatics Research Labs
 
